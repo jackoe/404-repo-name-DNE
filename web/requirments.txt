@@ -1,2 +1,0 @@
-flask
-Psycopg2
